@@ -1,0 +1,19 @@
+{
+    "name": "stacmv/beejee-todo-mvp",
+    "description": "Sample TO-DO app BeeJee job application",
+    "require": {
+        "vrana/notorm": "9999999-dev",
+        "league/route": "9999999-dev",
+        "league/plates": "4.0.x-dev"
+    },
+    "authors": [
+        {
+            "name": "stacmv",
+            "email": "stacmv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [ "app/" ]
+    }
+}
