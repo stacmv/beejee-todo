@@ -34,7 +34,7 @@
                     <ul class="nav pull-right">
                         <?php if ($USER):?>
                             <li>
-                                <?=$USER->login;?>
+                                <a href="#"><?=$USER->login;?></a>
                             </li>
                             <li><a href="user/logout">Log out</a></li>
                         <?php else:?>

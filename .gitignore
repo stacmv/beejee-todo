@@ -2,3 +2,4 @@
 vendor
 /data/*.tsv
 /composer.lock
+.vscode/launch.json
