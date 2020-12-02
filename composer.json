@@ -1,0 +1,14 @@
+{
+    "name": "stacmv/beejee-todo-mvp",
+    "description": "Sample TO-DO app BeeJee job application",
+    "authors": [
+        {
+            "name": "stacmv",
+            "email": "stacmv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [ "app/" ]
+    }
+}
